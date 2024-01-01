@@ -1,0 +1,11 @@
+F:\C#1\NewApp3\NewApp3\bin\Debug\NewApp3.exe.config
+F:\C#1\NewApp3\NewApp3\bin\Debug\NewApp3.exe
+F:\C#1\NewApp3\NewApp3\bin\Debug\NewApp3.pdb
+F:\C#1\NewApp3\NewApp3\obj\Debug\NewApp3.csproj.AssemblyReference.cache
+F:\C#1\NewApp3\NewApp3\obj\Debug\NewApp3.csproj.SuggestedBindingRedirects.cache
+F:\C#1\NewApp3\NewApp3\obj\Debug\NewApp3.Form1.resources
+F:\C#1\NewApp3\NewApp3\obj\Debug\NewApp3.Properties.Resources.resources
+F:\C#1\NewApp3\NewApp3\obj\Debug\NewApp3.csproj.GenerateResource.cache
+F:\C#1\NewApp3\NewApp3\obj\Debug\NewApp3.csproj.CoreCompileInputs.cache
+F:\C#1\NewApp3\NewApp3\obj\Debug\NewApp3.exe
+F:\C#1\NewApp3\NewApp3\obj\Debug\NewApp3.pdb
